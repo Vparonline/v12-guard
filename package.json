@@ -1,0 +1,38 @@
+{
+  "name": "new-guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juqest/guard-altyapi.git"
+  },
+  "author": "shavie427#1000",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juqest/guard-altyapi/issues"
+  },
+  "homepage": "",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "dateformat": "^3.0.3",
+    "discord-logs": "^1.7.7",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.10.13",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2",
+    "util": "^0.12.3",
+    "axios": "^0.26.0",
+    "discord-buttons": "^4.0.0",
+    "@vonage/server-sdk": "^2.10.11"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}

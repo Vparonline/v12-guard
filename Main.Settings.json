@@ -1,0 +1,21 @@
+{
+  "Defaults": {
+    "Token": "",
+    "RoleGuardianToken": "",
+    "ChannelGuardianToken": "",
+    "ServerGuardianToken": "",
+    "WebGuardianToken": "",
+    "Prefix": "",
+    "GuildID": "",
+    "PresenceName": "Created by shâvie.",
+    "Status": "dnd",
+    "vanityURLCode": "287",
+    "MongoURL": "",
+    "BotOwners": ["768601368788467723"]
+  },
+  "Channels": {
+    "VoiceChannel": "974307733438341190",
+    "LogChannel": "974307800559812698",
+    "ErrorLogChannel": ""
+  }
+}
